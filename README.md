@@ -71,7 +71,7 @@ AI 自主渗透测试系统（Go 后端 + Next.js 前端）
 ### 方式一：一键安装脚本（推荐）
 
 ```bash
-[git clone https://github.com/mhtsec/ARTEX.git](https://github.com/Burgess-xiao/ARTEX.git)
+[git clone https://github.com/Burgess-xiao/ARTEX.git]
 cd ARTEX
 ./install.sh
 ```
